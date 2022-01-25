@@ -23,11 +23,12 @@ Jakby ktoś nie wiedział jak wyszukać największy element w liście, to trzeba
 lista=[2,5,3,4,1,3,6,1]
 maks=lista[0]
 dl=len(lista)
-  for i in range(dl):
-		if(lista[i]>maks):
-			maks=lista[i]
+for i in range(dl):
+	if(lista[i]>maks):
+		maks=lista[i]
 print(maks)
 ```
+Podobnie jest jeśli chcemy znaleźć *najmniejszy* element.
 
 ### Tabelka
 
