@@ -4,7 +4,7 @@ Hej, tu moja strona na warsztat programisty
 
 ### Przedmioty
 
-Tutaj jest lista przedmiotów na naszym kierunku. Zaznaczyłam te, z których już na pewno zdałam
+Tutaj jest lista przedmiotów na naszym kierunku. Zaznaczyłam te, z których już na pewno zdałam:
 
 - [x]  Bazy Danych
 - [x]  Język Angielski
