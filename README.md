@@ -6,8 +6,8 @@ Hej, tu moja strona na warsztat programisty :smiley:
 
 Tutaj jest lista przedmiotów na naszym kierunku. Zaznaczyłam te, z których już na pewno zdałam :yum:
 
-- [x] Bazy Danych
-- [x] Język Angielski
+[x]  Bazy Danych
+[x] Język Angielski
 - [ ] Matematyka Elementarna
 - [ ] Matematyka Dyskretna
 - [x] Wstęp do Programowania
