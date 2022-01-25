@@ -46,4 +46,4 @@ No i na koniec link do super kanału na YouTubie. Mega polecam tym, który go ni
 
 [KLIKNIJ TUTAJ](https://www.youtube.com/channel/UCFaMz8vtEJW-KuAqf7KALTg)
 
-TO JUŻ CAŁA STRONKA. **DZIĘKI ZA UWAGĘ!!!** 
+TO JUŻ CAŁA STRONKA. **DZIĘKI ZA UWAGĘ!!!**  
